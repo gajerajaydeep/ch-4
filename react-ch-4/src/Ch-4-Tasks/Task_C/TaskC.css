@@ -1,0 +1,22 @@
+.navbar-container {
+    /* background-color: aliceblue; */
+
+}
+
+.navbar-container ul {
+    display: flex;
+
+}
+
+.navbar-container ul li {
+    list-style: none;
+    border: 1px solid black;
+    padding: 20px;
+
+}
+
+.navbar-container ul li a {
+    text-decoration: none;
+    padding: 20px;
+    font-size: 30px;
+}
