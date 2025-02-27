@@ -1,0 +1,11 @@
+.cart-span{
+    background-color: red;
+    color: white;
+    padding: 10px;
+    /* font-size: 40px; */
+}
+.product{
+    margin-top: 40px;
+    border: 1px solid black;
+    width: 200px;
+}
