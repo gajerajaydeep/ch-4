@@ -1,0 +1,27 @@
+.userProfile-container {
+  border: 1px solid black;
+
+  padding: 20px 10px;
+  display: flex;
+  gap: 20px;
+}
+
+.user-body {
+  border: 1px solid black;
+  width: 400px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  height: 50vh;
+  justify-content: space-around;
+}
+
+.user-data {
+  /* border: 1px solid black; */
+  width: 400px;
+ height: 50vh;
+  display: flex;
+  flex-direction: column;
+  height: 50vh;
+  justify-content: start;
+}
